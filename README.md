@@ -14,7 +14,7 @@
 - Firebase
 
 ### Web:
-- CSS Preprocessor: SCSS
+- CSS Preprocessor: SCSS, SASS
 - CSS Metodologie: BEM
 - Front-end frameworks: Angular, Vue
 - Back-end frameworks: Express, Django
