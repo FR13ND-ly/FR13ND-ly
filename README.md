@@ -7,17 +7,19 @@
 ### Programming languages:
 - JavaScript
 - Python
+- Java
 
 ### Databases:
 - SQLite
 - MongoDB
 - Firebase
+- MySql
 
 ### Web:
 - CSS Preprocessor: SCSS, SASS
 - CSS Metodologie: BEM
 - Front-end frameworks: Angular, Vue
-- Back-end frameworks: Express, Django
+- Back-end frameworks: Express, Django, Spring Boot
 - Version control systems: Git
 - Others: REST, TypeScript, OOP
 - CSS frameworks: Materialize, Angular Material
