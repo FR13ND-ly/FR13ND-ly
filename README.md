@@ -14,6 +14,7 @@
 - MongoDB
 - Firebase
 - MySql
+- PostgreSql
 
 ### Web:
 - CSS Preprocessor: SCSS, SASS
@@ -27,7 +28,6 @@
 ### Desktop:
 - Framework: PyQt
 
-d2hvYW1p
 
 [facebook]: https://www.facebook.com/profile.php?id=100008822852027
 [instagram]: https://www.instagram.com/motricalaalin/
